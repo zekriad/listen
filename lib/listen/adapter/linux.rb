@@ -8,6 +8,7 @@ module Listen
         events: [
           :recursive,
           :attrib,
+          :modify,
           :create,
           :delete,
           :move,
